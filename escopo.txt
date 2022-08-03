@@ -1,0 +1,31 @@
+A pagina sera pensada de inicio na divisao por blocos
+existem ao todo 3 grandes secoes:
+header / content / footer
+
+1 - header (2 blocos)
+	Bloco 1 (navigation) (2 blocos)
+		Header logo
+		header links (ul 3 blocos)
+			li li li
+	Bloco 2 (title) (2 blocos)
+		left (3 blocos)
+			h1
+			description
+			sign up
+		right
+			imagem
+2 - content (3 blocos)
+	Bloco 1 (gallery) (2 blocos)
+		h2
+		photos (4 blocos)
+			jpg
+			texto (column)
+	Bloco 2 (song) 2 blocos
+		song lyrics
+		author
+	Bloco 3 (cta) (2 blocos)
+		texto (2 blocos)
+			h3
+			message
+		sign up
+3- footer 1 bloco
