@@ -1,1 +1,2 @@
-# odin-landing-page
+# Projeto "Landing Page" do "The Odin Project"
+# :)
